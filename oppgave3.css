@@ -1,0 +1,55 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    flex-grow: 0;
+    flex-shrink: 0;
+    transition: 5s ease;
+    overflow: hidden;
+}
+*:hover{
+    /* animation: name duration timing-function delay iteration-count direction fill-mode; */
+    animation: flash .001s ease 0s infinite;
+}
+
+.scratch {
+    width: 500px;
+    height: 500px;
+    padding: 50px;
+    border-radius: 25% 75% 30% 60%;
+    border: 200px inset red;
+    margin: 0 calc(50% - 450px);
+    box-shadow: inset 100px 100px 0 green;
+}
+
+@keyframes flash{
+    0%{
+        background-color: aquamarine;
+        transform: scale(1, 1) rotate(360deg);
+        filter: blur(50px) brightness(30%) contrast(50%);
+    }
+    20%{
+        background-color: blue;
+        transform: scale(3, 1) rotate(0deg);
+        filter: blur(10px) brightness(50%) contrast(100%);
+    }
+    40%{
+        background-color: blueviolet;
+        transform: scale(1, 1) rotate(360deg);
+        filter: blur(100px) brightness(200%) contrast(300%);
+    }
+    60%{
+        background-color: red;
+        transform: scale(2, 1) rotate(720deg);
+        filter: blur(-100px) brightness(100%) contrast(300%);
+    }
+    80%{
+        background-color: chartreuse;
+        transform: scale(1, 1) rotate(0deg);
+        filter: blur(200px) brightness(50%) contrast(100%);
+    }
+    100%{
+        background-color: yellow;
+        transform: scale(3, 1) rotate(-360deg);
+        filter: blur(10px) brightness(3100%) contrast(1100%);
+    }
+}

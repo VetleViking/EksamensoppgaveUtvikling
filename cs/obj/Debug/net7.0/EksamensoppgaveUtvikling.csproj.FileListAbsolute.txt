@@ -1,0 +1,14 @@
+C:\Users\bruker-Qwerty123\Documents\GitHub\EksamensoppgaveUtvikling\cs\bin\Debug\net7.0\EksamensoppgaveUtvikling.exe
+C:\Users\bruker-Qwerty123\Documents\GitHub\EksamensoppgaveUtvikling\cs\bin\Debug\net7.0\EksamensoppgaveUtvikling.deps.json
+C:\Users\bruker-Qwerty123\Documents\GitHub\EksamensoppgaveUtvikling\cs\bin\Debug\net7.0\EksamensoppgaveUtvikling.runtimeconfig.json
+C:\Users\bruker-Qwerty123\Documents\GitHub\EksamensoppgaveUtvikling\cs\bin\Debug\net7.0\EksamensoppgaveUtvikling.dll
+C:\Users\bruker-Qwerty123\Documents\GitHub\EksamensoppgaveUtvikling\cs\bin\Debug\net7.0\EksamensoppgaveUtvikling.pdb
+C:\Users\bruker-Qwerty123\Documents\GitHub\EksamensoppgaveUtvikling\cs\obj\Debug\net7.0\EksamensoppgaveUtvikling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruker-Qwerty123\Documents\GitHub\EksamensoppgaveUtvikling\cs\obj\Debug\net7.0\EksamensoppgaveUtvikling.AssemblyInfoInputs.cache
+C:\Users\bruker-Qwerty123\Documents\GitHub\EksamensoppgaveUtvikling\cs\obj\Debug\net7.0\EksamensoppgaveUtvikling.AssemblyInfo.cs
+C:\Users\bruker-Qwerty123\Documents\GitHub\EksamensoppgaveUtvikling\cs\obj\Debug\net7.0\EksamensoppgaveUtvikling.csproj.CoreCompileInputs.cache
+C:\Users\bruker-Qwerty123\Documents\GitHub\EksamensoppgaveUtvikling\cs\obj\Debug\net7.0\EksamensoppgaveUtvikling.dll
+C:\Users\bruker-Qwerty123\Documents\GitHub\EksamensoppgaveUtvikling\cs\obj\Debug\net7.0\refint\EksamensoppgaveUtvikling.dll
+C:\Users\bruker-Qwerty123\Documents\GitHub\EksamensoppgaveUtvikling\cs\obj\Debug\net7.0\EksamensoppgaveUtvikling.pdb
+C:\Users\bruker-Qwerty123\Documents\GitHub\EksamensoppgaveUtvikling\cs\obj\Debug\net7.0\EksamensoppgaveUtvikling.genruntimeconfig.cache
+C:\Users\bruker-Qwerty123\Documents\GitHub\EksamensoppgaveUtvikling\cs\obj\Debug\net7.0\ref\EksamensoppgaveUtvikling.dll
